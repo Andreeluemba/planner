@@ -18,6 +18,8 @@
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.13.1",
     "sort-by": "^1.2.0",
+    "tailwind-merge": "^3.5.0",
+    "tailwind-variants": "^3.2.2",
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
